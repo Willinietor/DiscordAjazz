@@ -1,0 +1,2 @@
+# DiscordAjazz
+Plugin Discord Ajazz
